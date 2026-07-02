@@ -28,3 +28,7 @@ Security frameworks (NIST, CVE, etc.) via the Google Cert
  
 MY LINKEDIN: www.linkedin.com/in/akram-yennoune-9b8045417
 MY TRYHACKME:https://tryhackme.com/p/Akrammmm
+🗂️ What's in This Repo:
+/notes   study notes from my courses 
+/writeups  tools i used and what i learned
+
