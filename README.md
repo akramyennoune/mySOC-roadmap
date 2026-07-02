@@ -47,6 +47,7 @@ Security frameworks (NIST, CVE, etc.) via the Google Cert
 
 
 LinkedIn: linkedin.com/in/akram-yennoune-9b8045417
+
 TryHackMe: tryhackme.com/p/Akrammmm
 
 
@@ -54,5 +55,7 @@ TryHackMe: tryhackme.com/p/Akrammmm
 📂 What's in This Repo
 
 
-Pre Security Path Notes
+- [Pre Security Path Notes](notes/pre-security-path.md)
+
+
 Google Cert Notes — Course 1
