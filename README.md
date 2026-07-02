@@ -1,61 +1,21 @@
-pathtoSOC-docs
-
-Writing up my journey and my path as an aspiring SOC analyst. 👋 Hi, I'm YENNOUNE AKRAM
-
-🎯 Aspiring SOC Analyst | Learning cybersecurity from the ground up
-
-I'm building my skills in threat detection, network security, and incident response. This repo documents my learning path, labs, and notes as I work toward a career as a SOC Analyst.
+# 💫 About Me:
+Hi there, I'm Akram Yennoune 👋<br><br>🎯 Aspiring SOC Analyst | Learning cybersecurity from the ground up<br><br>I'm building my skills in threat detection, network security, and incident response — documenting my journey publicly as I go.<br><br><br>🔭 Currently Learning<br><br><br>Networking fundamentals (deepening beyond what I already knew growing up around IT)<br>Core security concepts: CIA triad, threat actors, risk management<br>Linux basics and command line<br>Introduction to SIEM tools and log analysis<br>Security frameworks (NIST, CVE, etc.)<br><br><br><br>🏆 Certifications & Milestones<br><br><br>✅ TryHackMe — Pre Security Path (SEC0 cert earned)<br>🔄 TryHackMe — Cyber Security 101 Path (in progress)<br>🔄 Google Cybersecurity Professional Certificate (Course 1 completed)<br><br><br><br>🎯 Goals<br><br><br>Finish TryHackMe Cyber Security 101 path<br>Complete all Google Cybersecurity Certificate courses<br>Build a home SOC lab (Security Onion / Splunk Free)<br>Start CompTIA Security+ prep<br>Complete first CTF writeup<br><br><br><br>📫 Connect With Me<br><br><br>LinkedIn: linkedin.com/in/akram-yennoune-9b8045417<br>TryHackMe: tryhackme.com/p/Akrammmm
 
 
-🏆 Certifications & Milestones
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Akram Yennoune) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yennakram9@gmail.com) 
 
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=akramyennoune&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=akramyennoune&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=akramyennoune&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-✅ TryHackMe — Pre Security Path (SEC0 cert earned)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-Covered networking fundamentals, OSI/TCP-IP model, web application basics, and core IT/security concepts
+---
+[![](https://komarev.com/ghpvc/?username=akramyennoune&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
-🔄 TryHackMe — Cyber Security 101 Path (in progress)
-🔄 Google Cybersecurity Professional Certificate (in progress — Course 1 completed)
-
-
-
-📚 Currently Learning
-
-
-Networking fundamentals (deepening beyond what I already knew growing up around IT)
-Core security concepts: CIA triad, threat actors, risk management
-Linux basics and command line
-Introduction to SIEM tools and log analysis
-Security frameworks (NIST, CVE, etc.) via the Google Cert
-
-
-
-🎯 Goals
-
-
- Finish TryHackMe Cyber Security 101 path
- Complete all Google Cybersecurity Certificate courses
- Build a home SOC lab (Security Onion / Splunk Free)
- Start CompTIA Security+ prep
- Complete first CTF writeup
-
-
-
-📫 Connect
-
-
-LinkedIn: linkedin.com/in/akram-yennoune-9b8045417
-
-TryHackMe: tryhackme.com/p/Akrammmm
-
-
-
-📂 What's in This Repo
-
-
-- [Pre Security Path Notes](notes/pre-security-path.md)
-
-
-- [google_course_1_notes](notes/google-cert-.md)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
