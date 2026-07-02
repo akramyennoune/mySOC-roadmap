@@ -1,25 +1,25 @@
 # pathtoSOC-docs
-Writing up my journey and my path as an aspiring SOC analyst 
+Writing up my journey and my path as an aspiring SOC analyst.
 👋 Hi, I'm YENNOUNE AKRAM
 
 🎯 Aspiring SOC Analyst | Learning cybersecurity from the ground up
 I'm building my skills in threat detection, network security, and incident response. This repo documents my learning path, labs, and notes as I work toward a career as a SOC Analyst.
 
-🏆 Certifications & Milestones
+🏆 Certifications & Milestones:
 ✅ TryHackMe — Pre Security Path (SEC0 cert earned)
 
 Covered networking fundamentals, OSI/TCP-IP model, web application basics, and core IT/security concepts
 🔄 TryHackMe — Cyber Security 101 Path (in progress)
 🔄 Google Cybersecurity Professional Certificate (in progress — Course 1 completed)
 
-📚 Currently Learning
+📚 Currently Learning:
 Networking fundamentals (deepening beyond what I already knew growing up around IT)
 Core security concepts: CIA triad, threat actors, risk management
 Linux basics and command line
 Introduction to SIEM tools and log analysis
 Security frameworks (NIST, CVE, etc.) via the Google Cert
 
-🎯 Goals
+🎯 Goals:
  Finish TryHackMe Cyber Security 101 path
  Complete all Google Cybersecurity Certificate courses
  Build a home SOC lab (Security Onion / Splunk Free)
