@@ -58,4 +58,4 @@ TryHackMe: tryhackme.com/p/Akrammmm
 - [Pre Security Path Notes](notes/pre-security-path.md)
 
 
-Google Cert Notes — Course 1
+- [google_course_1_notes](notes/google-cert-.md)
