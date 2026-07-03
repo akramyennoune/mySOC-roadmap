@@ -1,3 +1,4 @@
+<img width="1772" height="928" alt="CERTIFICATE_LANDING_PAGE~JPYFNL1P7VEL" src="https://github.com/user-attachments/assets/265196de-8708-4233-accf-05e3ade191ba" />
  Google Cybersecurity Certificate – Course 1: Foundations of Cybersecurity
 
 # Overview
