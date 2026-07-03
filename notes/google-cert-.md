@@ -37,4 +37,3 @@ This course was more conceptual/foundational than technical — it gave me the v
 and big-picture view of the field before getting hands-on. Pairs well with what I already
 covered in TryHackMe's Pre Security path, since a lot of terminology overlapped.
 
- moving on to Course 2.
