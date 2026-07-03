@@ -1,3 +1,5 @@
+<img width="886" height="563" alt="Capture" src="https://github.com/user-attachments/assets/1bef7652-5fe8-4753-ac8e-99a47c73b758" />
+
  TryHackMe – Pre Security Path Notes
 
  What This Path Covered
