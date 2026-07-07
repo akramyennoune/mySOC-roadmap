@@ -1,4 +1,4 @@
-<img width="1772" height="928" alt="CERTIFICATE_LANDING_PAGE~JPYFNL1P7VEL" src="https://github.com/user-attachments/assets/f12bed34-9813-44ce-a14f-db5eee51e60f" />
+
 completed Commonwealth Bank's Introduction to Cybersecurity Job Simulation on Forage:
  -Completed a job simulation involving the role of a cybersecurity generalist,
 
