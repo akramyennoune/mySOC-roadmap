@@ -63,7 +63,7 @@ task 2:
 
 
 task 3:
-they demanded an infographic design for awareness and password security here is what i made:
+they demanded an infographic design for awareness and password security and how to avoid weak encryption
 [akram s infographic design.pdf](https://github.com/user-attachments/files/29761604/akram.s.infographic.design.pdf)
 
 
