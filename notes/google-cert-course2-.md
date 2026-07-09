@@ -1,4 +1,5 @@
-[Coursera HIJA4JZTPXII.pdf](https://github.com/user-attachments/files/29853221/Coursera.HIJA4JZTPXII.pdf)
+<img width="770" height="590" alt="scsg" src="https://github.com/user-attachments/assets/dcc9e890-1666-44d9-bdf8-fc02b86b763a" />
+
 
 # Google Cybersecurity Certificate – Course 2: Play It Safe: Manage Security Risks
 
