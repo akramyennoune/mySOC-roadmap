@@ -23,6 +23,7 @@ I'm Akram Yennoune — an aspiring SOC analyst learning cybersecurity from the g
 ### TryHackMe Write-ups
 - [Nmap Basics](./thm-writeups/nmap-basics.md)
 - [Wireshark: The Basics](./thm-writeups/wireshark-basics.md)
+- [John the ripper basics](./thm-writeups/johntheripper.md)
 
 ### Job Simulations
 - [Commonwealth Bank – Introduction to Cybersecurity](./job-simulations/commonwealth-bank-cybersecurity-simulation.md)
