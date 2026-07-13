@@ -1,11 +1,55 @@
-# 💫 About Me:
-Hi there, I'm Akram Yennoune 👋<br><br>🎯 Aspiring SOC Analyst | Learning cybersecurity from the ground up<br><br>I'm building my skills in threat detection, network security, and incident response — documenting my journey publicly as I go.<br><br><br>🔭 Currently Learning<br><br><br>Networking fundamentals (deepening beyond what I already knew growing up around IT)<br>Core security concepts: CIA triad, threat actors, risk management<br>Linux basics and command line<br>Introduction to SIEM tools and log analysis<br>Security frameworks (NIST, CVE, etc.)<br><br><br><br>🏆 Certifications & Milestones<br><br><br>✅ TryHackMe — Pre Security Path (SEC0 cert earned)<br>🔄 TryHackMe — Cyber Security 101 Path (in progress)<br>🔄 Google Cybersecurity Professional Certificate (Course 1 completed)<br><br><br><br>🎯 Goals<br><br><br>Finish TryHackMe Cyber Security 101 path<br>Complete all Google Cybersecurity Certificate courses<br>Build a home SOC lab (Security Onion / Splunk Free)<br>Start CompTIA Security+ prep<br>Complete first CTF writeup<br><br><br><br>📫 
-Connect With Me <br><br><br>LinkedIn: linkedin.com/in/akram-yennoune-9b8045417<br>TryHackMe: tryhackme.com/p/Akrammmm
+# pathtoSOC-docs
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://[linkedin.com/in/Akram Yennoune) ](https://www.linkedin.com/in/akram-yennoune-9b8045417/)
+Notes, write-ups, and job-simulation reports documenting my journey from an IT background to aspiring SOC (Security Operations Center) analyst.
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yennakram9@gmail.com) 
+## 👋 About
+
+I'm Akram Yennoune — an aspiring SOC analyst learning cybersecurity from the ground up, with a focus on threat detection, network security, and incident response. This repo is where I document that journey publicly: course notes, TryHackMe room write-ups, and reports from real-world job simulations.
+
+## 📂 Repository Structure
+
+| Folder | Contents |
+|---|---|
+| [`notes/`](./notes) | Course notes from TryHackMe and the Google Cybersecurity Professional Certificate |
+| [`thm-writeups/`](./thm-writeups) | Room-by-room write-ups from TryHackMe practical exercises |
+| [`job-simulations/`](./job-simulations) | Reports from Forage job simulations at real companies |
+
+### Notes
+- [TryHackMe – Pre Security Path](./notes/pre-security-path.md) ✅
+- [TryHackMe – Cyber Security 101 Path](./notes/cyber-101-path.md) 🔄
+- [Google Cybersecurity Certificate – Course 1: Foundations of Cybersecurity](./notes/google-cert-course-1-foundations.md) ✅
+- [Google Cybersecurity Certificate – Course 2: Manage Security Risks](./notes/google-cert-course-2-risk-management.md) ✅
+
+### TryHackMe Write-ups
+- [Nmap Basics](./thm-writeups/nmap-basics.md)
+- [Wireshark: The Basics](./thm-writeups/wireshark-basics.md)
+
+### Job Simulations
+- [Commonwealth Bank – Introduction to Cybersecurity](./job-simulations/commonwealth-bank-cybersecurity-simulation.md)
+- [Mastercard – Cybersecurity Job Simulation](./job-simulations/mastercard-cybersecurity-simulation.md)
+
+## 🏆 Certifications & Milestones
+
+- ✅ TryHackMe — Pre Security Path (SEC0 certificate)
+- 🔄 TryHackMe — Cyber Security 101 Path (in progress)
+- 🔄 Google Cybersecurity Professional Certificate (2 of 8 courses completed)
+
+## 🎯 Current Goals
+
+- Finish the TryHackMe Cyber Security 101 path
+- Complete all courses in the Google Cybersecurity Professional Certificate
+- Build a home SOC lab (Security Onion / Splunk Free)
+- Begin CompTIA Security+ prep
+- Publish a first CTF write-up
+
+## 🛠 Tech / Tools
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akram-yennoune-9b8045417/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yennakram9@gmail.com) [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Akrammmm)
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
