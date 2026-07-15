@@ -1,6 +1,7 @@
 Just completed the SOC fundamentals room where they briefly explained security concepts and the security teams.
 
 <h1>Overview</h1>
+
 1- explained security terms and concepts
 
 2- gained knowledge about the soc teams
