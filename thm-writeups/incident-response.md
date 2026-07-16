@@ -3,7 +3,6 @@
 <H2>overview</H2>
 
 This is a walkthrough of Incident Response Fundamentals from TryHackMe where i was asked to analyse and response to an incident where a phishing email was opened on 3 users but executed in one
-
 <img width="602" height="301" alt="soc5" src="https://github.com/user-attachments/assets/4a17363b-5c83-424b-
 add0-52709237ac7b" />
 
