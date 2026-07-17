@@ -1,4 +1,4 @@
-# pathtoSOC-docs
+#mySOC-roadmap
 
 Notes, write-ups, and job-simulation reports documenting my journey from an IT background to aspiring SOC (Security Operations Center) analyst.
 
