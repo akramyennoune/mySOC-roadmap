@@ -21,8 +21,10 @@ alt="soem4" src="https://github.com/user-attachments/assets/173ecc9e-6c47-4c25-a
 
 and as we can see here it was a true positive alert so we needed to take action
 
+
 <img width="586" height="283" alt="sm06" src="https://github.com/user-attachments/assets/f238458f-7be6-4519-b937-a06b8d84c6e8" />
 
+And we wrapped up the lab with answering the questions it was pretty simple and easy it doesnt need a big write-up
 <img width="924" height="432" alt="siem2" src="https://github.com/user-attachments/assets/752cbd5e-5cf1-4924-bdf2-e1d7d266070f" />
 
 
